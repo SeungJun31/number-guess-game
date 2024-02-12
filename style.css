@@ -1,0 +1,26 @@
+#body,
+html {
+  margin: 0;
+  padding: 0;
+}
+#wrap {
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#main {
+  background-color: powderblue;
+  font-family: arial;
+  text-align: center;
+  width: 50%;
+  border-radius: 5%;
+  border: 2px solid black;
+}
+#chance-area {
+  margin-bottom: 15px;
+}
+#bottom {
+  margin-bottom: 15px;
+}
